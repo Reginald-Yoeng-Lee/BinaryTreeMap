@@ -1,0 +1,27 @@
+{
+  "name": "binary-tree-map",
+  "version": "0.0.1",
+  "description": "A library about binary tree map includes different kinds of implementations of binary tree.",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReinaldLee/BinaryTreeMap.git"
+  },
+  "keywords": [
+    "binary",
+    "tree"
+  ],
+  "author": "ReginaldLee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReinaldLee/BinaryTreeMap/issues"
+  },
+  "homepage": "https://github.com/ReinaldLee/BinaryTreeMap#readme"
+}
